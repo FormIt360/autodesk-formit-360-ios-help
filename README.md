@@ -1,1 +1,1 @@
-This book was generated automatically by Mode Lab.
+This FormIt Documentation book was generated automatically by Mode Lab.
