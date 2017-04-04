@@ -20,7 +20,7 @@ Share and save your data in many formats.
 * [Revit Files](../Revit Files.md)
     
     Save your design in a format that Revit can open and use.
-* [FormIt 360 Converter](../FormIt 360 Converter.md)
+* [FormIt Converter](../FormIt 360 Converter.md)
     
-    Convert files from other applications to use within FormIt 360
+    Convert files from other applications to use within FormIt
 

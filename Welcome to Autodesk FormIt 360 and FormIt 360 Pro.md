@@ -1,4 +1,4 @@
-# Welcome to Autodesk FormIt 360 and FormIt 360 Pro
+# Welcome to Autodesk FormIt and FormIt Pro
 
 ----
 

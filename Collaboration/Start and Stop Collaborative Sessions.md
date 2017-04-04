@@ -5,7 +5,7 @@
 Invite other people to work on the same design project.
 
 Share your work with others.
-NoteFormIt 360 Pro only.
+Note FormIt Pro only.
 ## Starting a Sharing Session
 
 * Tap the Collaboration icon on the far right side of the tool bar. If you are not already logged in, you will be asked to sign in with your [Autodesk 360](https://360.autodesk.com) account. Then, tap Start Sharing Session. 

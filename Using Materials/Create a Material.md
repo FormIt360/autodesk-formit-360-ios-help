@@ -25,7 +25,7 @@ Load an image from a file, or even take a photo with a tablet.
 
 ## Import an Autodesk Material ![](Images/GUID-04CB861E-010B-491D-8CA1-699C79100979-low.png)
 
-If you have purchased the optional [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy), you will be able to import materials from the Autodesk Materials library.
+If you have purchased the optional [FormIt Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy), you will be able to import materials from the Autodesk Materials library.
 
 
 1. Tap Import Material from the Material Palette.

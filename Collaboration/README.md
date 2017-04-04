@@ -17,7 +17,7 @@ In addition to simultaneous collaboration through shared sessions, you can share
     ![](Images/GUID-FF9BE849-5942-402D-BAE4-E41937132925-low.png)
 
 
-* Export/Save to OBJ: If you want to open your work in another program, export an OBJ that will automatically be saved in your Autodesk 360 FormIt 360 folder as a ZIP file.
+* Export/Save to OBJ: If you want to open your work in another program, export an OBJ that will automatically be saved in your Autodesk 360 FormIt folder as a ZIP file.
 * Email: Select the Mail option, and you can email a snapshot of your current state of work through your chosen email provider.
 * AirDrop: Use AirDrop via WiFi or Bluetooth to share the AXM file of your work with other nearby devices.
 * Print: Use the print option to send a snapshot of your work to a nearby AirPrint printer.

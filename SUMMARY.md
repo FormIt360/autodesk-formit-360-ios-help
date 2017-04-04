@@ -1,6 +1,6 @@
 # iOS Help
 
-* [Welcome to Autodesk FormIt 360 and FormIt 360 Pro](Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
+* [Welcome to Autodesk FormIt and FormIt Pro](Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
 - [User Interaction](User Interaction/README.md)
   * [Context Menu and Palette](User Interaction/Context Menu and Palette.md)
   * [User Interface tools](User Interaction/User Interface tools.md)
@@ -55,4 +55,4 @@
     * [Link a Content Library](Manage Your Data/Content Libraries/Link a Content Library.md)
     * [Place Content](Manage Your Data/Content Libraries/Place Content.md)
   * [Revit Files](Manage Your Data/Revit Files.md)
-  * [FormIt 360 Converter](Manage Your Data/FormIt 360 Converter.md)
+  * [FormIt Converter](Manage Your Data/FormIt 360 Converter.md)

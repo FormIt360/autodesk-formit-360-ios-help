@@ -19,6 +19,6 @@ The software's user interface makes use of a particular platform's standard inte
 * Or, you can use the Materials Tab to create, edit, and apply materials to objects. 
     
     ![](Images/GUID-62C98A81-3BB6-4885-BD17-4FC2296D9FAC-low.png)
-* Use the Content Library to link a Library from your local computer, or from A360 Drive. Then you can drag and drop content from the library into your FormIt 360 sketch. 
+* Use the Content Library to link a Library from your local computer, or from A360 Drive. Then you can drag and drop content from the library into your FormIt sketch. 
     
     ![](Images/GUID-F34F4C7A-70BD-4553-9B9B-CDB235C7BE21-low.png)
