@@ -1,10 +1,6 @@
 # Manage Your Data
-
-----
-
 Use multiple data formats to preserve and share your designs.
  
-
 Share and save your data in many formats.
 
   
