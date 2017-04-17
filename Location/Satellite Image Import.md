@@ -1,7 +1,5 @@
 # Satellite Image Import
 
-----
-
 Add detail and realism to your design.
  
 
