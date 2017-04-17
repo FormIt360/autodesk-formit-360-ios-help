@@ -1,7 +1,5 @@
 # Saving Your Work
 
-----
-
 Preserve your designs in multiple formats.
  
 * All your sketches can be accessed from your device gallery, ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png)or on http://360.autodesk.com . Every time you exit, the software automatically saves the sketch on which you most recently worked. Every time you return to the gallery, you will be prompted to save your sketch. Sign into http://360.autodesk.com to synchronize your files to the cloud. 
