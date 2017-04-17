@@ -1,7 +1,4 @@
 # Levels and Space Usage
-
-----
-
 See area calculations for objects in a design.
 
 ## Enable Levels
