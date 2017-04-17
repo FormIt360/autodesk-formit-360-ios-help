@@ -1,7 +1,5 @@
 # Edit Group
 
-----
-
 Update or make changes to an existing group.
 
 1. Tap on the group you wish to edit.
