@@ -1,7 +1,5 @@
 # Visual Format Options
 
-----
-
 Description of choices for visual style.
 
 ### Visual Style Options
