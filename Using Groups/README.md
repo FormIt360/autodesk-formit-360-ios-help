@@ -1,8 +1,5 @@
 # Using Groups
-
-----
-
-Bundle together one or more objects into clusters that you can easily manipulate.
+Bundle together one or more objects into components that you can easily manipulate.
  
 
 Groups help you create geometry more efficiently.
