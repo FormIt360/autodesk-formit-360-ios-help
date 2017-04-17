@@ -1,7 +1,4 @@
 # Modify: Scale and Rotate
-
-----
-
 Adjust the size and orientation of objects.
 
 1. ![](Images/GUID-55582F73-C2A7-4ABD-BDD2-084BF1CBB579-low.gif)To scale edges, faces or objects, first select, tap and hold to access the context menu, then choose the scale icon. Use a pinching motion to scale the geometry up or down.
