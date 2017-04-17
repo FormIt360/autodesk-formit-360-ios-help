@@ -1,7 +1,5 @@
 # Content Libraries
 
-----
-
 Use a personal library of frequently used elements like furniture, building elements, or material base files.
  
 
