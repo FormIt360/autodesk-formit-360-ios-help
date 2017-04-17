@@ -1,8 +1,4 @@
 # World Axes
-
-----
- 
-
 The default grid can be modified by changing the world axis.
 
 When a blank sketch is opened in FormIt, the World Axes are displayed as three red, green and blue lines in the center of the screen. These three lines, define the three Cartesian directions that define the 3D world. The "X" direction is defined by the red line, the "Y" direction by the green line and the "Z" or "up" direction by the blue line.
