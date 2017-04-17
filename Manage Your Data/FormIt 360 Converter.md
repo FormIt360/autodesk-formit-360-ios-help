@@ -1,7 +1,5 @@
 # FormIt 360 Converter
 
-----
-
 Convert files from other applications to use within FormIt
  
 
