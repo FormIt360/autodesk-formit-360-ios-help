@@ -1,7 +1,4 @@
 # Welcome to Autodesk FormIt and FormIt Pro
-
-----
-
 Discover how to create conceptual building designs while initiating a BIM workflow.
  
 
