@@ -4,7 +4,9 @@ Establish a geographic location for your sketch.
 
 ## Identify Your Location
 
-1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png) To set the location of your sketch, tap on the Location icon from the bottom action bar. You can either use the Search window to search for a specific location or use the map to browse for a location.
+1. To set the location of your sketch, tap on the Location icon from the bottom action bar. You can either use the Search window to search for a specific location or use the map to browse for a location.
+
+    ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png) 
 
 If you use the Search window, choose the location from the list offered.
 
