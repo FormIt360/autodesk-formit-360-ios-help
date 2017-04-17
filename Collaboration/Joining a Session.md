@@ -1,7 +1,6 @@
 # Joining a Session
 
 Become part of a collaboration.
- 
 
 * Login to [Autodesk 360](https://360.autodesk.com).
 * Tap the link provided to you by the session host, or paste the link URL into your Web browser address bar. 
