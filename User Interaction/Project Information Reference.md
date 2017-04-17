@@ -1,7 +1,5 @@
 # Project Information Reference
 
-----
-
 Name your design and keep track of its status.
 
 ## Project Information Area
