@@ -1,7 +1,4 @@
 # Modify: Boolean Operations
-
-----
-
 Use Join and Cut operations to alter objects.
 
 1. ![](Images/GUID-2CB526DC-1AB2-4F17-AF26-DC00141D8D41-low.gif)Union: To perform a union, select all the objects you want to boolean. Then, select the union tool from the context menu. The intersecting/overlapping portion of the geometry will be united into one object.
