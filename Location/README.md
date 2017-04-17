@@ -1,7 +1,4 @@
 # Location
-
-----
-
 Define a geographic location to make use of building performance and climate data with your designs.
  
 
