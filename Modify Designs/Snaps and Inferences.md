@@ -1,7 +1,4 @@
 # Snaps and Inferences
-
-----
-
 Use these built-in capabilities to create more accurate designs.
  
 * To make sketching and modeling easier, use snaps and inference points to accurately create, place, and edit geometry. You can use whatever axis you choose as the axis on which to draw or execute another action, such as extruding a surface. 
