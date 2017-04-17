@@ -1,7 +1,5 @@
 # Make Group Unique
 
-----
-
 Copy a set of objects and then disconnect them from the originals.
 
 1. Tap on a group to select it.
