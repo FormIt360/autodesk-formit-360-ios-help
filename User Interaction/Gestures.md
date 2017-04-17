@@ -1,7 +1,4 @@
 # Gestures
-
-----
-
 Use these movements to engage the user interface.
  
 
