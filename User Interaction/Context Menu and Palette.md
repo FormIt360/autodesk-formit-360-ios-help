@@ -1,7 +1,4 @@
 # Context Menu and Palette
-
-----
-
 Locate the tools to create and place designs.
  
 
