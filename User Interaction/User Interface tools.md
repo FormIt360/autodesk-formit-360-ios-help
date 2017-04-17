@@ -2,9 +2,18 @@
 
 Reference for command interaction tools.
  
-* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png)Save the Sketch: Tap to save the current sketch and return to the gallery.
-* ![](Images/GUID-7DCFC00B-398E-433C-9182-9C7EE7CBD711-low.png)Set the name: Tap to bring up a keyboard and change the name of your sketch.
-* ![](Images/GUID-5B051083-621A-4688-85B0-1001C6678DAB-low.png) Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
+* Save the Sketch: Tap to save the current sketch and return to the gallery.
+
+    ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png)
+    
+* Set the name: Tap to bring up a keyboard and change the name of your sketch.
+
+    ![](Images/GUID-7DCFC00B-398E-433C-9182-9C7EE7CBD711-low.png)
+    
+* Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
+
+    ![](Images/GUID-5B051083-621A-4688-85B0-1001C6678DAB-low.png) 
+    
 * With the View Settings menu, you can choose from a selection of preset views. These views will allow you to quickly visualize your model from different perspectives and zoom levels. 
     
     ![](Images/GUID-C7DD69E5-ACA9-46BA-8F0A-943ABEBF46D0-low.png)
