@@ -1,7 +1,5 @@
 # Collaboration
 
-----
-
 Work simultaneously with others on the same sketch, or share your work later.
 NoteYou will need a free [Autodesk 360](https://360.autodesk.com) account to use collaboration features.
 * Use the Collaboration palette to start and manage sharing sessions. 
