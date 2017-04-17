@@ -1,7 +1,5 @@
 # User Interface tools
 
-----
-
 Reference for command interaction tools.
  
 * ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png)Save the Sketch: Tap to save the current sketch and return to the gallery.
