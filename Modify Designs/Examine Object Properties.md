@@ -1,7 +1,4 @@
 # Examine Object Properties
-
-----
-
 View or change a building object's name or its volume/area and level values.
 
 ## Modify Properties and Enable Space Updates
