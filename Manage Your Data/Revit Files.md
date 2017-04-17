@@ -1,7 +1,4 @@
 # Revit Files
-
-----
-
 Save your design in a format that Revit can open and use.
  
 
