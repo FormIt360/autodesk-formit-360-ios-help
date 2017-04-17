@@ -1,7 +1,4 @@
 # Modify: Select Edge/Face or Object
-
-----
-
 Choosing an object or surface is the first step to making modifications.
 
 1. ![](Images/GUID-7AC531A9-173F-49A2-BB8E-A376BAA81A2B-low.gif)To select a face, edge or vertex, hover over them - then single tap to select.
