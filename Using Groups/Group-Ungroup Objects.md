@@ -1,7 +1,5 @@
 # Group/Ungroup Objects
 
-----
-
 Place geometry into groups to allow easier manipulation, keep objects distinct from one another, and create parent/child relationships between objects
 
 #### Group Objects
