@@ -1,9 +1,9 @@
-# FormIt 360 Converter
+# FormIt Converter
 
 Convert files from other applications to use within FormIt
  
 
-The FormIt 360 Converter is a Revit add-in that can convert files from other applications, such as SketchUp and Revit, to use within FormIt 360. It can be downloaded directly from the [FormIt website](http://formit360.autodesk.com/blog/formit-converter/).
+The FormIt Converter is a Revit add-in that can convert files from other applications, such as SketchUp and Revit, to use within FormIt. It can be downloaded directly from the [FormIt website](http://formit360.autodesk.com/blog/formit-converter/).
 
 ## Convert RFA Files to FormIt files ![](Images/GUID-2CC7B106-9414-40FA-BD69-5884ACBA0834-low.png)
 
