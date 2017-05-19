@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [What's New](https://formit.autodesk.com/page/release-notes/#release-notes-ipad)
 * [Welcome to Autodesk FormIt and FormIt Pro](Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
 * [User Interaction](User Interaction/README.md)
   * [Context Menu and Palette](User Interaction/Context Menu and Palette.md)
@@ -50,11 +51,5 @@
   * [Make Group Unique](Using Groups/Make Group Unique.md)
   * [Apply Levels and Materials to a Group](Using Groups/Apply Levels and Materials to a Group.md)
   * [Group Axes and Work Planes](Using Groups/Group Axes and Work Planes.md)
-* [Manage Your Data](Manage Your Data/README.md)
-  * [Saving Your Work](Manage Your Data/Saving Your Work.md)
-  * [Content Libraries](Manage Your Data/Content Libraries/README.md)
-    * [Link a Content Library](Manage Your Data/Content Libraries/Link a Content Library.md)
-    * [Place Content](Manage Your Data/Content Libraries/Place Content.md)
-  * [Revit Files](Manage Your Data/Revit Files.md)
-  * [FormIt Converter](Manage Your Data/FormIt 360 Converter.md)
+* [What's New](https://formit.autodesk.com/page/release-notes/#release-notes-ipad)
 
