@@ -51,5 +51,4 @@
   * [Make Group Unique](Using Groups/Make Group Unique.md)
   * [Apply Levels and Materials to a Group](Using Groups/Apply Levels and Materials to a Group.md)
   * [Group Axes and Work Planes](Using Groups/Group Axes and Work Planes.md)
-* [What's New](https://formit.autodesk.com/page/release-notes/#release-notes-ipad)
 
