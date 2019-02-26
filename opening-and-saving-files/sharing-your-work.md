@@ -6,7 +6,7 @@ From the ![](../.gitbook/assets/shareicon.png) icon in the bottom tool bar you c
 
 From there you may:
 
-* Create an e-mail or message with a screen already placed
+* Create an e-mail or message with a screen shot already placed
 * Save a screen shot of your sketch to the Photo Library
 * Send the screen shot to a AirPrint enabled printer
 * Export your 3D sketch as an **axm** file to the Files app on the iPad. If you place the file inside the **iCloud Drive** folder, you can access it from other devices that can connect to your iCloud account.![](../.gitbook/assets/sharetofiles.png) 
