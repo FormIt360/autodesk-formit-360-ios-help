@@ -6,7 +6,9 @@ Reference for command interaction tools.
 
   ![](../.gitbook/assets/guid-04a6c825-c1eb-4092-bef6-9c20e9428677-low.png)
 
-* Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
+* Login to Autodesk 360: Use the Autodesk 360 Cloud Services to store and share your sketches.To use this feature you need to subscribe to FormIt Pro. 
+
+  [**Click here**](https://formit.autodesk.com/page/formit-bim-360-docs) to learn more about this feature.
 
   ![](../.gitbook/assets/guid-5b051083-621a-4688-85b0-1001c6678dab-low.png)
 

@@ -18,7 +18,7 @@ The software's user interface makes use of a particular platform's standard inte
 
   ![](../.gitbook/assets/guid-62c98a81-3bb6-4885-bd17-4fc2296d9fac-low.png)
 
-* Use the Content Library to link a Library from your local computer. Then you can drag and drop content from the library into your FormIt sketch.
+* Use the Content Library to access pre-made models from your local computer. Then you can drag and drop content from the library into your FormIt sketch.  
 
-  ![](../.gitbook/assets/guid-f34f4c7a-70bd-4553-9b9b-cdb235c7be21-low.png)
+  ![](../.gitbook/assets/image.png)
 

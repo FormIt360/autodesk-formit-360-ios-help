@@ -1,6 +1,6 @@
 # Collaboration
 
-Work simultaneously with others on the same sketch, or share your work later. NoteYou will need a free [**Autodesk**](https://360.autodesk.com) account to use collaboration features.
+Work simultaneously with others on the same sketch, or share your work later. Note, that you will need a FormIt Pro account to use collaboration features. [**Click here**](https://formit.autodesk.com/page/formit-bim-360-docs) to learn more about FormIt Pro.
 
 * Use the Collaboration palette to start and manage sharing sessions.
 
