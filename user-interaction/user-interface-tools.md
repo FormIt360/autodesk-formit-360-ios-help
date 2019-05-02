@@ -6,9 +6,7 @@ Reference for command interaction tools.
 
   ![](../.gitbook/assets/guid-04a6c825-c1eb-4092-bef6-9c20e9428677-low.png)
 
-* Login to Autodesk 360: Access FormIt entitlements, use Autodesk 360 Cloud Services, and store and share your sketches using BIM360.
-
-  [**Click here**](https://formit.autodesk.com/page/formit-bim-360-docs) to learn more about this feature.
+* Login to your Autodesk account: Access FormIt Pro, use Autodesk Cloud Services, and store and share your sketches using BIM 360 Docs. [**Click here**](https://formit.autodesk.com/page/formit-bim-360-docs) to learn more about this feature.
 
   ![](../.gitbook/assets/guid-5b051083-621a-4688-85b0-1001c6678dab-low.png)
 
