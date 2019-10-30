@@ -11,7 +11,9 @@ Use these movements to engage the user interface.
 | Pan | Two-finger drag | ![](../.gitbook/assets/guid-4307f5d6-e2c3-4cab-9fd2-651d52b3dcf8-low.png) |
 | Orbit | Single-finger drag | ![](../.gitbook/assets/guid-65a59445-15db-4f19-b25a-5d5193e57761-low.png) |
 | Zoom in and out | Pinch and spread | ![](../.gitbook/assets/guid-7b204401-5d68-4119-bc25-06353f6de600-low.png) |
-| Zoom to fit | Two-finger double tap | ![](../.gitbook/assets/guid-741a3f3d-b558-444a-a2ef-d817498dbd10-low.png) |
+| Zoom to fit the whole model | Two-finger double tap | ![](../.gitbook/assets/guid-741a3f3d-b558-444a-a2ef-d817498dbd10-low.png) |
+| Zoom to fit the current selection | Two-finger single tap | ![](../.gitbook/assets/guid-741a3f3d-b558-444a-a2ef-d817498dbd10-low.png) |
+| Clear the current selection | Three-finger single tap or tap once with a single finger anywhere in empty space | ![](../.gitbook/assets/guid-741a3f3d-b558-444a-a2ef-d817498dbd10-low.png) |
 
 ### Create Geometry Gestures
 
