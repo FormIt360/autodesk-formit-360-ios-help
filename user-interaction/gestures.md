@@ -23,3 +23,12 @@ Use these movements to engage the user interface.
 | Extrude Shapes | Tap to select a face, and then drag your finger up or down. | ![](../.gitbook/assets/guid-a84a7dbb-e3ef-4130-afdf-0e9cd1ba5512-low.png) |
 | Place a Primitive | From the action bar, tap the Primitive icon. When the menu displays, tap the primitive you would like to place in your sketch. Tap the canvas and drag to where you would like to place the primitive. | ![](../.gitbook/assets/primitive-05.png) |
 
+### Select Geometry Gestures
+
+|  |  |  |
+| :--- | :--- | :--- |
+| Select a Face | Single tap on the face you want to select. | ![](../.gitbook/assets/gestures-ios_singletap.png) |
+| Select a Body | Double tap anywhere on the body. | ![](../.gitbook/assets/gestures-ios-double-tap-06.png) |
+| Edit a Group | Double tap on any geometry in the group. | ![](../.gitbook/assets/gestures-ios-double-tap-06.png) |
+| Exit a Group | Single tap anywhere outside of the group bounding box. | ![](../.gitbook/assets/gestures-ios_singletap.png) |
+
