@@ -29,6 +29,13 @@ Use these movements to engage the user interface.
 | :--- | :--- | :--- |
 | Select a Face | Single tap on the face you want to select. | ![](../.gitbook/assets/gestures-ios_singletap.png) |
 | Select a Body | Double tap anywhere on the body. | ![](../.gitbook/assets/gestures-ios-double-tap-06.png) |
+
+### Group Gestures
+
+|  |  |  |
+| :--- | :--- | :--- |
 | Edit a Group | Double tap on any geometry in the group. | ![](../.gitbook/assets/gestures-ios-double-tap-06.png) |
 | Exit a Group | Single tap anywhere outside of the group bounding box. | ![](../.gitbook/assets/gestures-ios_singletap.png) |
+
+
 
