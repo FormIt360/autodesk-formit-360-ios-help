@@ -40,6 +40,7 @@
   * [Modify: Boolean Operations](modify-designs/modify-boolean-operations.md)
   * [Examine Object Properties](modify-designs/examine-object-properties.md)
   * [Meshes](modify-designs/meshes.md)
+  * [Orthographic Camera](modify-designs/orthographic-camera.md)
 * [Building Performance](building-performance/README.md)
   * [Sun and Shadow Settings](building-performance/sun-and-shadow-settings.md)
   * [Solar Analysis](building-performance/solar-analysis.md)
