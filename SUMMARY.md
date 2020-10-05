@@ -16,6 +16,7 @@
   * [Set a Location](location/set-a-location.md)
   * [Satellite Image Import](location/satellite-image-import.md)
   * [Edit, Reload, or Remove a Satellite Image](location/edit-reload-or-remove-a-satellite-image.md)
+  * [Import Terrain](location/import-terrain.md)
 * [Collaboration](collaboration/README.md)
   * [Start and Stop Collaborative Sessions](collaboration/start-and-stop-collaborative-sessions.md)
   * [Joining a Session](collaboration/joining-a-session.md)
