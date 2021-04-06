@@ -22,3 +22,7 @@ The software's user interface makes use of a particular platform's standard inte
 
   ![](../.gitbook/assets/image.png)
 
+* Place objects and groups on Layers by accessing the Layers tab. Control visibility and locking for more control.  ![](../.gitbook/assets/ipad-layers.png) 
+
+
+
